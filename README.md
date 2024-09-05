@@ -3,8 +3,8 @@
 This is a slightly modified `Hello Heaps.io` example I took from [here](https://heaps.io/documentation/hello-hashlink.html).
 
 ## How 2 run
-```
-haxe compile.hxml && hl App.hl
+```bash
+haxe compile.hl.hxml && hl App.hl
 ```
 or just press `F5` if u use VS Code
 

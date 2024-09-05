@@ -1,6 +1,5 @@
--cp src
--main Main
--lib heaps
+base.hxml
+
 -lib hlsdl
 # -lib hldx
 -hl App.hl
